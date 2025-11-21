@@ -2,9 +2,9 @@
 import java.util.Scanner;
 
 public class App {
-    void main() {
+    public void main(String[] args) {
 
-        .println(String.format("Write console tests"));
+        System.out.println(String.format("Write console tests"));
 
         Scanner teclado = new Scanner(System.in);
 
